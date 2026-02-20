@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ポータル</title>
+
+  <!-- OGP設定 -->
+  <meta property="og:title" content="A-Portal.web">
+  <meta property="og:image" content="https://あなたのID.github.io/portal.jpeg">
+  <meta property="og:type" content="website">
+
+  <!-- ファビコン -->
+  <link rel="icon" href="icon.jpeg">
+</head>
+
+<body style="margin:0; background:#000;">
+  <img src="portal.jpeg" style="width:100%; height:auto; display:block;">
+</body>
+</html>
